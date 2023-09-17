@@ -1,2 +1,2 @@
-# Employee-Management
+# Amdocs Projects
 C programming project 
